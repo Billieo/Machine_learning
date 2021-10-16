@@ -12,3 +12,11 @@
 
 
 ![image](https://user-images.githubusercontent.com/80086711/137350321-1e6064f2-8596-4657-b505-b2346e5391e9.png)
+
+# Ensemble Learning
+- For this section data will be train and two different ensemble classifiers to predict loan risk and evaluate each model.
+- Data will be read into DataFrame
+- Data will be split into training and testing 
+- Data will be scaled using the StandardScaler from sklearn.preprocessing.
+
+![image](https://user-images.githubusercontent.com/80086711/137604921-2d120340-788f-4fb8-bd99-44d057232114.png)
